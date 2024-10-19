@@ -98,9 +98,9 @@ const About = () => {
                 <Row className="justify-content-center mx-auto text-center" style={{ marginTop: 90 }}>
                     <Col md={4} className="mb-4 mb-md-0">
                         <div className="flex flex-col items-center">
-                            <img src="https://media.licdn.com/dms/image/D5603AQFqsSOLRKNjdg/profile-displayphoto-shrink_800_800/0/1718961962298?e=1727308800&v=beta&t=AXnZWnUP-P7KA_Vmr2AiCeTi9Vlu9jZZE7tAWgj7qyQ" alt="Bowo" className="mb-3" style={{ width: '100%', height: '600px', objectFit: 'cover' }} />
-                            <h5 className="mt-3 font-bold text-white">Fian</h5>
-                            <p className="text-gray-400">Managing Director</p>
+                            <img src="https://thumbs.dreamstime.com/z/anime-boy-avatar-ai-generative-art-man-273239994.jpg" alt="Bowo" className="mb-3" style={{ width: '100%', height: '600px', objectFit: 'cover' }} />
+                            <h5 className="mt-3 font-bold text-white">Teguh</h5>
+                            <p className="text-gray-400">FullStack Developer</p>
                         </div>
                     </Col>
                     <Col md={4} className="mb-4 mb-md-0">
