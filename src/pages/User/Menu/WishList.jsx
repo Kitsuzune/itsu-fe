@@ -85,7 +85,7 @@ const WishList = () => {
                     <div className="d-flex justify-content-center mt-4">
                         <Pagination>
                             {[...Array(totalPages)].map((_, idx) => (
-                                <Pagination.Item key={idx + 1} active={idx + 1 === currentPage} onClick={() => handlePageChange(idx + 1)}>
+                                <Pagination.Item key={idx + 1} active={idx + 1 === currentPage}>
                                     {idx + 1}
                                 </Pagination.Item>
                             ))}
